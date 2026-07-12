@@ -43,12 +43,9 @@ const engineeringFocus = {
 ## ◈ GitHub telemetry
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arslaan07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&ring_color=238636" alt="Arslaan's GitHub statistics" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslaan07&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=3FB950&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Arslaan's GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslaan07&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages in Arslaan's public GitHub repositories" />
+  <a href="https://github.com/arslaan07">
+    <img src="./assets/github-telemetry.svg" alt="Matte-black GitHub activity card: 2,292 total contributions, 457 contributions in the last year, 66 public repositories, and 2 followers" width="100%" />
+  </a>
 </p>
 
 ## ◈ Open channel
