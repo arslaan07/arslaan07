@@ -21,7 +21,7 @@ Use a dark, neon, terminal-inspired "parallel-universe system console" aesthetic
 3. A "System modules" section groups the stack into web platform, backend/data, and applied AI capabilities.
 4. A "Current transmission" section states the kind of products and problems Arslaan is interested in building.
 5. GitHub telemetry provides compact activity, streak, and top-language widgets themed in cyan and violet.
-6. A contact section gives a direct path to the GitHub profile and clearly marks placeholders that must be replaced before publishing.
+6. An open-channel section gives a direct path to the GitHub profile without inventing unprovided contact details.
 7. An HTML comment adds a small terminal-style Easter egg without affecting visible readability.
 
 ## Visual System
@@ -35,7 +35,7 @@ Use a dark, neon, terminal-inspired "parallel-universe system console" aesthetic
 
 - The repository contains only Markdown and lightweight metadata: no runtime dependencies, build system, JavaScript, or deployment process.
 - Dynamic widgets use well-established public image endpoints parameterized with `username=arslaan07`. If a third-party widget is unavailable, the surrounding text remains useful.
-- README content is deliberately easy to edit: placeholders use `REPLACE_ME` so personal links can be found with a simple repository search.
+- README content is deliberately easy to edit: capability groups and profile links use clear, searchable text.
 
 ## Completion Criteria
 
