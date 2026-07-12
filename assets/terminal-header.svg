@@ -1,0 +1,46 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">ARSLAAN_07 terminal identity banner</title>
+  <desc id="description">A cyan and violet futuristic terminal interface introducing Arslaan as an AI Full-Stack Engineer.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#081426"/>
+      <stop offset="1" stop-color="#160C2C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="120" x2="1050" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" stroke="#22D3EE" stroke-opacity="0.1" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <path d="M0 277C201 229 340 331 583 271C806 216 976 190 1200 239V360H0V277Z" fill="#22D3EE" fill-opacity="0.055"/>
+  <path d="M0 294C253 244 414 326 672 263C868 215 997 224 1200 272" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="2"/>
+  <rect x="42" y="38" width="1116" height="284" rx="13" stroke="#22D3EE" stroke-opacity="0.35"/>
+  <path d="M42 81H1158" stroke="#22D3EE" stroke-opacity="0.22"/>
+  <circle cx="69" cy="60" r="6" fill="#F472B6"/>
+  <circle cx="91" cy="60" r="6" fill="#FACC15"/>
+  <circle cx="113" cy="60" r="6" fill="#4ADE80"/>
+  <text x="144" y="65" fill="#94A3B8" font-family="monospace" font-size="14" letter-spacing="2">PROFILE.SYS / SECURE SESSION</text>
+  <path d="M86 124H102" stroke="#22D3EE" stroke-width="2" filter="url(#glow)"/>
+  <text x="118" y="130" fill="#67E8F9" font-family="monospace" font-size="17">IDENTITY_CONFIRMED</text>
+  <text x="84" y="193" fill="white" font-family="monospace" font-size="51" font-weight="700" letter-spacing="3">ARSLAAN_07</text>
+  <rect x="86" y="213" width="654" height="2" fill="url(#accent)" filter="url(#glow)"/>
+  <text x="86" y="252" fill="#C4B5FD" font-family="monospace" font-size="21" letter-spacing="1">AI FULL-STACK ENGINEER</text>
+  <text x="86" y="285" fill="#94A3B8" font-family="monospace" font-size="15">WEB ENGINEERING  ×  APPLIED AI  ×  PRODUCTION SYSTEMS</text>
+  <g transform="translate(920 124)">
+    <circle cx="102" cy="82" r="74" stroke="#A78BFA" stroke-opacity="0.45" stroke-width="2"/>
+    <circle cx="102" cy="82" r="48" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="5 7"/>
+    <circle cx="102" cy="82" r="12" fill="#22D3EE" filter="url(#glow)"/>
+    <path d="M102 0V32M102 132V164M20 82H52M152 82H184" stroke="#A78BFA" stroke-width="2"/>
+    <path d="M45 25L62 42M142 122L159 139M159 25L142 42M62 122L45 139" stroke="#22D3EE" stroke-opacity="0.7" stroke-width="2"/>
+    <text x="57" y="88" fill="#E2E8F0" font-family="monospace" font-size="16">ONLINE</text>
+  </g>
+</svg>
