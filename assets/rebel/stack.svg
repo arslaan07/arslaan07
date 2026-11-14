@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="212" viewBox="0 0 1120 212" role="img" aria-labelledby="title"><title id="title">Stack: TypeScript, Next.js, React, NestJS, PostgreSQL, Python, LangChain, RAG and LLM applications.</title><defs><pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.6" fill="#111210"/></pattern><pattern id="fine" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="0.7" fill="#111210" opacity=".2"/></pattern></defs><rect width="1120" height="212" fill="#111210"/>
+<polygon points="8,10 1111,2 1106,201 8,209" fill="#f4efdf" stroke="#111210" stroke-width="3" stroke-linejoin="miter"/>
+<polygon points="20,23 205,14 193,70 11,80" fill="#ffe329" stroke="#111210" stroke-width="3" stroke-linejoin="miter"/>
+<text x="42" y="59" fill="#111210" font-family="Impact" font-size="34" font-weight="bold" font-style="italic">STACK</text>
+<text x="238" y="49" fill="#e44332" font-family="Courier New" font-size="17" font-weight="bold" >WEB</text><text x="430" y="51" fill="#111210" font-family="Arial" font-size="24" font-weight="bold" >TypeScript / Next.js / React / Tailwind CSS</text>
+<path d="M234,72H1067" stroke="#111210"/>
+<text x="238" y="104" fill="#e44332" font-family="Courier New" font-size="17" font-weight="bold" >BACKEND</text><text x="430" y="106" fill="#111210" font-family="Arial" font-size="24" font-weight="bold" >NestJS / PostgreSQL</text>
+<path d="M234,128H1067" stroke="#111210"/>
+<text x="238" y="161" fill="#e44332" font-family="Courier New" font-size="17" font-weight="bold" >APPLIED AI</text><text x="430" y="162" fill="#111210" font-family="Arial" font-size="24" font-weight="bold" >Python / LangChain / RAG</text>
+<text x="430" y="190" fill="#111210" font-family="Arial" font-size="18" font-weight="bold" >LLM applications built for real user problems.</text>
+<rect x="25" y="109" width="155" height="70" fill="url(#dots)"/></svg>

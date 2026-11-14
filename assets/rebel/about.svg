@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="150" viewBox="0 0 1120 150" role="img" aria-labelledby="title"><title id="title">About Arslaan: thoughtful interfaces, reliable systems, useful AI.</title><defs><pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.6" fill="#111210"/></pattern><pattern id="fine" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="0.7" fill="#111210" opacity=".2"/></pattern></defs><rect width="1120" height="150" fill="#111210"/>
+<polygon points="8,14 1111,4 1103,134 8,143" fill="#f4efdf" stroke="#111210" stroke-width="3" stroke-linejoin="miter"/>
+<polygon points="21,29 205,20 193,78 11,87" fill="#ffe329" stroke="#111210" stroke-width="3" stroke-linejoin="miter"/>
+<text x="42" y="65" fill="#111210" font-family="Impact" font-size="34" font-weight="bold" font-style="italic">ABOUT</text>
+<text x="232" y="58" fill="#111210" font-family="Arial" font-size="30" font-weight="bold" font-style="italic">Thoughtful interfaces. Reliable systems. Useful AI.</text>
+<text x="232" y="94" fill="#111210" font-family="Arial" font-size="23" font-weight="bold" >I build production-grade products where modern web</text>
+<text x="232" y="124" fill="#111210" font-family="Arial" font-size="23" font-weight="bold" >engineering meets applied AI.</text>
+<path d="M1041,96l32,-8-15,24 32,-8" fill="none" stroke="#e44332" stroke-width="4"/></svg>

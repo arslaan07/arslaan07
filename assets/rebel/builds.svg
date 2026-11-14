@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="88" viewBox="0 0 1120 88" role="img" aria-labelledby="title"><title id="title">Featured builds — select a project.</title><defs><pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.6" fill="#111210"/></pattern><pattern id="fine" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="0.7" fill="#111210" opacity=".2"/></pattern></defs><rect width="1120" height="88" fill="#111210"/>
+<polygon points="8,10 846,1 817,77 2,86" fill="#ffe329" stroke="#111210" stroke-width="3" stroke-linejoin="miter"/>
+<text x="32" y="61" fill="#111210" font-family="Impact" font-size="49" font-weight="bold" font-style="italic">FEATURED BUILDS</text>
+<path d="M856,32h251M846,58h261" stroke="#f4efdf" stroke-width="2"/>
+<text x="891" y="78" fill="#f4efdf" font-family="Courier New" font-size="16" font-weight="bold" >SELECT A BUILD →</text></svg>
